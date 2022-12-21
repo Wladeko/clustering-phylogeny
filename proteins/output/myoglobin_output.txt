@@ -1,0 +1,377 @@
+BLASTP 2.12.0+
+
+
+Reference: Stephen F. Altschul, Thomas L. Madden, Alejandro A.
+Schaffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J.
+Lipman (1997), "Gapped BLAST and PSI-BLAST: a new generation of
+protein database search programs", Nucleic Acids Res. 25:3389-3402.
+
+
+Reference for composition-based statistics: Alejandro A. Schaffer,
+L. Aravind, Thomas L. Madden, Sergei Shavirin, John L. Spouge, Yuri
+I. Wolf, Eugene V. Koonin, and Stephen F. Altschul (2001),
+"Improving the accuracy of PSI-BLAST protein database searches with
+composition-based statistics and other refinements", Nucleic Acids
+Res. 29:2994-3005.
+
+
+
+Database: clustering
+           80 sequences; 87,462 total letters
+
+
+
+Query= CAA25109.1 myoglobin [Homo sapiens]
+
+Length=154
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+CAA25109.1 myoglobin [Homo sapiens]                                   312     1e-113
+XP_024208661.1 myoglobin [Pan troglodytes]                            310     9e-113
+XP_018874110.1 myoglobin isoform X2 [Gorilla gorilla gorilla]         310     9e-113
+NP_001125556.1 myoglobin [Pongo abelii]                               308     1e-111
+XP_050662610.1 myoglobin [Macaca thibetana thibetana]                 300     9e-109
+XP_003905518.1 myoglobin [Papio anubis]                               300     9e-109
+P02152.2 RecName: Full=Myoglobin [Callithrix jacchus]                 286     3e-103
+P02153.2 RecName: Full=Myoglobin [Sapajus apella]                     285     6e-103
+XP_003932968.1 myoglobin [Saimiri boliviensis boliviensis]            283     4e-102
+XP_045408951.1 myoglobin [Lemur catta]                                283     7e-102
+XP_010340891.1 albumin [Saimiri boliviensis boliviensis]              23.1    0.89  
+XP_002745783.2 albumin [Callithrix jacchus]                           21.9    2.1   
+AAA98797.1 albumin [Homo sapiens]                                     21.6    2.9   
+NP_001127106.2 albumin precursor [Pongo abelii]                       21.6    2.9   
+XP_517233.3 serum albumin [Pan troglodytes]                           21.2    3.0   
+XP_050646263.1 albumin [Macaca thibetana thibetana]                   21.2    3.7   
+XP_031520350.1 serum albumin [Papio anubis]                           21.2    3.9   
+XP_032116870.1 serum albumin [Sapajus apella]                         20.8    4.8   
+
+
+>CAA25109.1 myoglobin [Homo sapiens]
+Length=154
+
+ Score = 312 bits (800),  Expect = 1e-113, Method: Compositional matrix adjust.
+ Identities = 154/154 (100%), Positives = 154/154 (100%), Gaps = 0/154 (0%)
+
+Query  1    MGLSDGEWQLVLNVWGKVEADIPGHGQEVLIRLFKGHPETLEKFDKFKHLKSEDEMKASE  60
+            MGLSDGEWQLVLNVWGKVEADIPGHGQEVLIRLFKGHPETLEKFDKFKHLKSEDEMKASE
+Sbjct  1    MGLSDGEWQLVLNVWGKVEADIPGHGQEVLIRLFKGHPETLEKFDKFKHLKSEDEMKASE  60
+
+Query  61   DLKKHGATVLTALGGILKKKGHHEAEIKPLAQSHATKHKIPVKYLEFISECIIQVLQSKH  120
+            DLKKHGATVLTALGGILKKKGHHEAEIKPLAQSHATKHKIPVKYLEFISECIIQVLQSKH
+Sbjct  61   DLKKHGATVLTALGGILKKKGHHEAEIKPLAQSHATKHKIPVKYLEFISECIIQVLQSKH  120
+
+Query  121  PGDFGADAQGAMNKALELFRKDMASNYKELGFQG  154
+            PGDFGADAQGAMNKALELFRKDMASNYKELGFQG
+Sbjct  121  PGDFGADAQGAMNKALELFRKDMASNYKELGFQG  154
+
+
+>XP_024208661.1 myoglobin [Pan troglodytes]
+Length=154
+
+ Score = 310 bits (795),  Expect = 9e-113, Method: Compositional matrix adjust.
+ Identities = 153/154 (99%), Positives = 153/154 (99%), Gaps = 0/154 (0%)
+
+Query  1    MGLSDGEWQLVLNVWGKVEADIPGHGQEVLIRLFKGHPETLEKFDKFKHLKSEDEMKASE  60
+            MGLSDGEWQLVLNVWGKVEADIPGHGQEVLIRLFKGHPETLEKFDKFKHLKSEDEMKASE
+Sbjct  1    MGLSDGEWQLVLNVWGKVEADIPGHGQEVLIRLFKGHPETLEKFDKFKHLKSEDEMKASE  60
+
+Query  61   DLKKHGATVLTALGGILKKKGHHEAEIKPLAQSHATKHKIPVKYLEFISECIIQVLQSKH  120
+            DLKKHGATVLTALGGILKKKGHHEAEIKPLAQSHATKHKIPVKYLEFISECIIQVL SKH
+Sbjct  61   DLKKHGATVLTALGGILKKKGHHEAEIKPLAQSHATKHKIPVKYLEFISECIIQVLHSKH  120
+
+Query  121  PGDFGADAQGAMNKALELFRKDMASNYKELGFQG  154
+            PGDFGADAQGAMNKALELFRKDMASNYKELGFQG
+Sbjct  121  PGDFGADAQGAMNKALELFRKDMASNYKELGFQG  154
+
+
+>XP_018874110.1 myoglobin isoform X2 [Gorilla gorilla gorilla]
+Length=154
+
+ Score = 310 bits (794),  Expect = 9e-113, Method: Compositional matrix adjust.
+ Identities = 153/154 (99%), Positives = 153/154 (99%), Gaps = 0/154 (0%)
+
+Query  1    MGLSDGEWQLVLNVWGKVEADIPGHGQEVLIRLFKGHPETLEKFDKFKHLKSEDEMKASE  60
+            MGLSDGEWQLVLNVWGKVEADI GHGQEVLIRLFKGHPETLEKFDKFKHLKSEDEMKASE
+Sbjct  1    MGLSDGEWQLVLNVWGKVEADISGHGQEVLIRLFKGHPETLEKFDKFKHLKSEDEMKASE  60
+
+Query  61   DLKKHGATVLTALGGILKKKGHHEAEIKPLAQSHATKHKIPVKYLEFISECIIQVLQSKH  120
+            DLKKHGATVLTALGGILKKKGHHEAEIKPLAQSHATKHKIPVKYLEFISECIIQVLQSKH
+Sbjct  61   DLKKHGATVLTALGGILKKKGHHEAEIKPLAQSHATKHKIPVKYLEFISECIIQVLQSKH  120
+
+Query  121  PGDFGADAQGAMNKALELFRKDMASNYKELGFQG  154
+            PGDFGADAQGAMNKALELFRKDMASNYKELGFQG
+Sbjct  121  PGDFGADAQGAMNKALELFRKDMASNYKELGFQG  154
+
+
+>NP_001125556.1 myoglobin [Pongo abelii]
+Length=154
+
+ Score = 308 bits (788),  Expect = 1e-111, Method: Compositional matrix adjust.
+ Identities = 152/154 (99%), Positives = 152/154 (99%), Gaps = 0/154 (0%)
+
+Query  1    MGLSDGEWQLVLNVWGKVEADIPGHGQEVLIRLFKGHPETLEKFDKFKHLKSEDEMKASE  60
+            MGLSDGEWQLVLNVWGKVEADIP HGQEVLIRLFKGHPETLEKFDKFKHLKSEDEMKASE
+Sbjct  1    MGLSDGEWQLVLNVWGKVEADIPSHGQEVLIRLFKGHPETLEKFDKFKHLKSEDEMKASE  60
+
+Query  61   DLKKHGATVLTALGGILKKKGHHEAEIKPLAQSHATKHKIPVKYLEFISECIIQVLQSKH  120
+            DLKKHGATVLTALGGILKKKGHHEAEIKPLAQSHATKHKIPVKYLEFISE IIQVLQSKH
+Sbjct  61   DLKKHGATVLTALGGILKKKGHHEAEIKPLAQSHATKHKIPVKYLEFISESIIQVLQSKH  120
+
+Query  121  PGDFGADAQGAMNKALELFRKDMASNYKELGFQG  154
+            PGDFGADAQGAMNKALELFRKDMASNYKELGFQG
+Sbjct  121  PGDFGADAQGAMNKALELFRKDMASNYKELGFQG  154
+
+
+>XP_050662610.1 myoglobin [Macaca thibetana thibetana]
+Length=154
+
+ Score = 300 bits (768),  Expect = 9e-109, Method: Compositional matrix adjust.
+ Identities = 148/154 (96%), Positives = 149/154 (97%), Gaps = 0/154 (0%)
+
+Query  1    MGLSDGEWQLVLNVWGKVEADIPGHGQEVLIRLFKGHPETLEKFDKFKHLKSEDEMKASE  60
+            MGLSDGEWQLVLNVWGKVEADIP HGQEVLIRLFKGHPETLEKFDKFKHLKSEDEMKASE
+Sbjct  1    MGLSDGEWQLVLNVWGKVEADIPSHGQEVLIRLFKGHPETLEKFDKFKHLKSEDEMKASE  60
+
+Query  61   DLKKHGATVLTALGGILKKKGHHEAEIKPLAQSHATKHKIPVKYLEFISECIIQVLQSKH  120
+            DLKKHGATVLTALGGILKKKGHHEAEIKPLAQSHATKHKIPVKYLE ISE IIQVLQSKH
+Sbjct  61   DLKKHGATVLTALGGILKKKGHHEAEIKPLAQSHATKHKIPVKYLELISESIIQVLQSKH  120
+
+Query  121  PGDFGADAQGAMNKALELFRKDMASNYKELGFQG  154
+            PGDFGADAQGAMNKALELFR DMA+ YKELGFQG
+Sbjct  121  PGDFGADAQGAMNKALELFRNDMAAKYKELGFQG  154
+
+
+>XP_003905518.1 myoglobin [Papio anubis]
+Length=154
+
+ Score = 300 bits (768),  Expect = 9e-109, Method: Compositional matrix adjust.
+ Identities = 148/154 (96%), Positives = 149/154 (97%), Gaps = 0/154 (0%)
+
+Query  1    MGLSDGEWQLVLNVWGKVEADIPGHGQEVLIRLFKGHPETLEKFDKFKHLKSEDEMKASE  60
+            MGLSDGEWQLVLNVWGKVEADIP HGQEVLIRLFKGHPETLEKFDKFKHLKSEDEMKASE
+Sbjct  1    MGLSDGEWQLVLNVWGKVEADIPSHGQEVLIRLFKGHPETLEKFDKFKHLKSEDEMKASE  60
+
+Query  61   DLKKHGATVLTALGGILKKKGHHEAEIKPLAQSHATKHKIPVKYLEFISECIIQVLQSKH  120
+            DLKKHGATVLTALGGILKKKGHHEAEIKPLAQSHATKHKIPVKYLE ISE IIQVLQSKH
+Sbjct  61   DLKKHGATVLTALGGILKKKGHHEAEIKPLAQSHATKHKIPVKYLELISESIIQVLQSKH  120
+
+Query  121  PGDFGADAQGAMNKALELFRKDMASNYKELGFQG  154
+            PGDFGADAQGAMNKALELFR DMA+ YKELGFQG
+Sbjct  121  PGDFGADAQGAMNKALELFRNDMAAKYKELGFQG  154
+
+
+>P02152.2 RecName: Full=Myoglobin [Callithrix jacchus]
+Length=154
+
+ Score = 286 bits (732),  Expect = 3e-103, Method: Compositional matrix adjust.
+ Identities = 140/154 (91%), Positives = 145/154 (94%), Gaps = 0/154 (0%)
+
+Query  1    MGLSDGEWQLVLNVWGKVEADIPGHGQEVLIRLFKGHPETLEKFDKFKHLKSEDEMKASE  60
+            MGLSDGEWQLVLNVWGKVEADIP HGQEVLI LFKGHPETLEKFDKFKHLKSEDEMKASE
+Sbjct  1    MGLSDGEWQLVLNVWGKVEADIPSHGQEVLISLFKGHPETLEKFDKFKHLKSEDEMKASE  60
+
+Query  61   DLKKHGATVLTALGGILKKKGHHEAEIKPLAQSHATKHKIPVKYLEFISECIIQVLQSKH  120
+            +LKKHG TVLTALGGILKKKGHHEAE+KPLAQSHATKHKIPVKYLEFIS+ I+ VLQ KH
+Sbjct  61   ELKKHGVTVLTALGGILKKKGHHEAELKPLAQSHATKHKIPVKYLEFISDAIVHVLQKKH  120
+
+Query  121  PGDFGADAQGAMNKALELFRKDMASNYKELGFQG  154
+            PGDFGADAQGAM KALELFR DMA+ YKELGFQG
+Sbjct  121  PGDFGADAQGAMKKALELFRNDMAAKYKELGFQG  154
+
+
+>P02153.2 RecName: Full=Myoglobin [Sapajus apella]
+Length=154
+
+ Score = 285 bits (730),  Expect = 6e-103, Method: Compositional matrix adjust.
+ Identities = 140/154 (91%), Positives = 145/154 (94%), Gaps = 0/154 (0%)
+
+Query  1    MGLSDGEWQLVLNVWGKVEADIPGHGQEVLIRLFKGHPETLEKFDKFKHLKSEDEMKASE  60
+            MGLSDGEWQLVLNVWGKVEADIP HGQEVLI LFKGHPETLEKFDKFKHLKSEDEMKASE
+Sbjct  1    MGLSDGEWQLVLNVWGKVEADIPSHGQEVLISLFKGHPETLEKFDKFKHLKSEDEMKASE  60
+
+Query  61   DLKKHGATVLTALGGILKKKGHHEAEIKPLAQSHATKHKIPVKYLEFISECIIQVLQSKH  120
+            +LKKHGATVLTALGGILKKKG HEAE+KPLAQSHATKHKIPVKYLEFIS+ I+ VLQ KH
+Sbjct  61   ELKKHGATVLTALGGILKKKGQHEAELKPLAQSHATKHKIPVKYLEFISDAIVHVLQKKH  120
+
+Query  121  PGDFGADAQGAMNKALELFRKDMASNYKELGFQG  154
+            PGDFGADAQGAM KALELFR DMA+ YKELGFQG
+Sbjct  121  PGDFGADAQGAMKKALELFRNDMAAKYKELGFQG  154
+
+
+>XP_003932968.1 myoglobin [Saimiri boliviensis boliviensis]
+Length=154
+
+ Score = 283 bits (725),  Expect = 4e-102, Method: Compositional matrix adjust.
+ Identities = 139/154 (90%), Positives = 144/154 (94%), Gaps = 0/154 (0%)
+
+Query  1    MGLSDGEWQLVLNVWGKVEADIPGHGQEVLIRLFKGHPETLEKFDKFKHLKSEDEMKASE  60
+            MGLSDGEWQLVLNVWGKVEADIP HGQEVLI LFKGHPETLEKFDKFKHLKSEDEMKASE
+Sbjct  1    MGLSDGEWQLVLNVWGKVEADIPSHGQEVLISLFKGHPETLEKFDKFKHLKSEDEMKASE  60
+
+Query  61   DLKKHGATVLTALGGILKKKGHHEAEIKPLAQSHATKHKIPVKYLEFISECIIQVLQSKH  120
+            +LKKHGATVLTALGGILKKKG HEAE+KPLAQSHATKHKIPVKYLE IS+ I+ VLQ KH
+Sbjct  61   ELKKHGATVLTALGGILKKKGQHEAELKPLAQSHATKHKIPVKYLELISDAIVHVLQKKH  120
+
+Query  121  PGDFGADAQGAMNKALELFRKDMASNYKELGFQG  154
+            PGDFGADAQGAM KALELFR DMA+ YKELGFQG
+Sbjct  121  PGDFGADAQGAMKKALELFRNDMAAKYKELGFQG  154
+
+
+>XP_045408951.1 myoglobin [Lemur catta]
+Length=154
+
+ Score = 283 bits (723),  Expect = 7e-102, Method: Compositional matrix adjust.
+ Identities = 138/154 (90%), Positives = 144/154 (94%), Gaps = 0/154 (0%)
+
+Query  1    MGLSDGEWQLVLNVWGKVEADIPGHGQEVLIRLFKGHPETLEKFDKFKHLKSEDEMKASE  60
+            MGLSDGEWQLVLNVWGKVEAD+ GHGQEVLIRLF GHPETLEKFDKFKHLK+ DEMKASE
+Sbjct  1    MGLSDGEWQLVLNVWGKVEADVGGHGQEVLIRLFTGHPETLEKFDKFKHLKTADEMKASE  60
+
+Query  61   DLKKHGATVLTALGGILKKKGHHEAEIKPLAQSHATKHKIPVKYLEFISECIIQVLQSKH  120
+            DLKKHG TVLTALGGILKKKG HEAEIKPLAQSHATKHKIP+KYLEFIS+ II VLQSKH
+Sbjct  61   DLKKHGTTVLTALGGILKKKGQHEAEIKPLAQSHATKHKIPIKYLEFISDAIIHVLQSKH  120
+
+Query  121  PGDFGADAQGAMNKALELFRKDMASNYKELGFQG  154
+            PGDFGADAQGAM KALELFR D+A+ YKELGFQG
+Sbjct  121  PGDFGADAQGAMKKALELFRNDIAAKYKELGFQG  154
+
+
+>XP_010340891.1 albumin [Saimiri boliviensis boliviensis]
+Length=608
+
+ Score = 23.1 bits (48),  Expect = 0.89, Method: Composition-based stats.
+ Identities = 18/66 (27%), Positives = 29/66 (44%), Gaps = 19/66 (29%)
+
+Query  23   PGHGQEVLIRLFKGHPETLEK--------------FDKFKHLKSEDEMKASEDLKKHGAT  68
+            P +   +L+RL K +  TLEK              FD+F+ L     ++  ++L KH   
+Sbjct  363  PDYSVMLLLRLAKAYEATLEKCCATADPHGCYAKVFDEFQPL-----VEDPQNLVKHNCE  417
+
+Query  69   VLTALG  74
+            +   LG
+Sbjct  418  LFEQLG  423
+
+
+>XP_002745783.2 albumin [Callithrix jacchus]
+Length=608
+
+ Score = 21.9 bits (45),  Expect = 2.1, Method: Composition-based stats.
+ Identities = 17/66 (26%), Positives = 28/66 (42%), Gaps = 19/66 (29%)
+
+Query  23   PGHGQEVLIRLFKGHPETLEK--------------FDKFKHLKSEDEMKASEDLKKHGAT  68
+            P +   +L+RL K +  TLEK              FD+F+ L     ++  ++L KH   
+Sbjct  363  PDYSAMLLLRLAKAYEATLEKCCATADPHGCYAKVFDEFQPL-----VEDPQNLVKHNCE  417
+
+Query  69   VLTALG  74
+            +    G
+Sbjct  418  LFEQFG  423
+
+
+>AAA98797.1 albumin [Homo sapiens]
+Length=609
+
+ Score = 21.6 bits (44),  Expect = 2.9, Method: Composition-based stats.
+ Identities = 19/66 (29%), Positives = 27/66 (41%), Gaps = 19/66 (29%)
+
+Query  23   PGHGQEVLIRLFKGHPETLEK--------------FDKFKHLKSEDEMKASEDLKKHGAT  68
+            P +   +L+RL K +  TLEK              FD+FK L  E      ++L K    
+Sbjct  363  PDYSVVLLLRLAKTYETTLEKCCAAADPHECYAKVFDEFKPLVEE-----PQNLIKQNCE  417
+
+Query  69   VLTALG  74
+            +   LG
+Sbjct  418  LFEQLG  423
+
+
+>NP_001127106.2 albumin precursor [Pongo abelii]
+Length=609
+
+ Score = 21.6 bits (44),  Expect = 2.9, Method: Composition-based stats.
+ Identities = 19/66 (29%), Positives = 27/66 (41%), Gaps = 19/66 (29%)
+
+Query  23   PGHGQEVLIRLFKGHPETLEK--------------FDKFKHLKSEDEMKASEDLKKHGAT  68
+            P +   +L+RL K +  TLEK              FD+FK L  E      ++L K    
+Sbjct  363  PDYSVVLLLRLAKTYETTLEKCCAAADPHECYAKVFDEFKPLVEE-----PQNLIKQNCE  417
+
+Query  69   VLTALG  74
+            +   LG
+Sbjct  418  LFEQLG  423
+
+
+>XP_517233.3 serum albumin [Pan troglodytes]
+Length=609
+
+ Score = 21.2 bits (43),  Expect = 3.0, Method: Composition-based stats.
+ Identities = 19/66 (29%), Positives = 27/66 (41%), Gaps = 19/66 (29%)
+
+Query  23   PGHGQEVLIRLFKGHPETLEK--------------FDKFKHLKSEDEMKASEDLKKHGAT  68
+            P +   +L+RL K +  TLEK              FD+FK L  E      ++L K    
+Sbjct  363  PDYSVVLLLRLAKTYETTLEKCCAAADPHECYAKVFDEFKPLVEE-----PQNLIKQNCE  417
+
+Query  69   VLTALG  74
+            +   LG
+Sbjct  418  LFEQLG  423
+
+
+>XP_050646263.1 albumin [Macaca thibetana thibetana]
+Length=608
+
+ Score = 21.2 bits (43),  Expect = 3.7, Method: Composition-based stats.
+ Identities = 18/66 (27%), Positives = 27/66 (41%), Gaps = 19/66 (29%)
+
+Query  23   PGHGQEVLIRLFKGHPETLEK--------------FDKFKHLKSEDEMKASEDLKKHGAT  68
+            P +   +L+RL K +  TLEK              FD+F+ L  E      ++L K    
+Sbjct  363  PDYSVMLLLRLAKAYEATLEKCCAAADPHECYAKVFDEFQPLVEE-----PQNLVKQNCE  417
+
+Query  69   VLTALG  74
+            +   LG
+Sbjct  418  LFEQLG  423
+
+
+>XP_031520350.1 serum albumin [Papio anubis]
+Length=608
+
+ Score = 21.2 bits (43),  Expect = 3.9, Method: Composition-based stats.
+ Identities = 18/66 (27%), Positives = 27/66 (41%), Gaps = 19/66 (29%)
+
+Query  23   PGHGQEVLIRLFKGHPETLEK--------------FDKFKHLKSEDEMKASEDLKKHGAT  68
+            P +   +L+RL K +  TLEK              FD+F+ L  E      ++L K    
+Sbjct  363  PDYSVMLLLRLAKAYEATLEKCCAAADPHECYAKVFDEFQPLVEE-----PQNLVKQNCE  417
+
+Query  69   VLTALG  74
+            +   LG
+Sbjct  418  LFEQLG  423
+
+
+>XP_032116870.1 serum albumin [Sapajus apella]
+Length=608
+
+ Score = 20.8 bits (42),  Expect = 4.8, Method: Composition-based stats.
+ Identities = 9/21 (43%), Positives = 13/21 (62%), Gaps = 0/21 (0%)
+
+Query  23   PGHGQEVLIRLFKGHPETLEK  43
+            P +   +L+RL K +  TLEK
+Sbjct  363  PDYSPMLLLRLAKAYEATLEK  383
+
+
+
+Lambda      K        H        a         alpha
+   0.316    0.135    0.398    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 7770228
+
+
+  Database: clustering
+    Posted date:  Dec 21, 2022  6:56 PM
+  Number of letters in database: 87,462
+  Number of sequences in database:  80
+
+
+
+Matrix: BLOSUM62
+Gap Penalties: Existence: 11, Extension: 1
+Neighboring words threshold: 11
+Window for multiple hits: 40

@@ -1,0 +1,1560 @@
+BLASTX 2.12.0+
+
+
+Reference: Stephen F. Altschul, Thomas L. Madden, Alejandro A.
+Schaffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J.
+Lipman (1997), "Gapped BLAST and PSI-BLAST: a new generation of
+protein database search programs", Nucleic Acids Res. 25:3389-3402.
+
+
+
+Database: clustering
+           80 sequences; 87,462 total letters
+
+
+
+Query= AAA98797.1 albumin [Homo sapiens]
+
+Length=395
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.317    0.148    0.494    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 6046006
+
+
+Query= XP_002745783.2 albumin [Callithrix jacchus]
+
+Length=400
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.316    0.135    0.429    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 6211650
+
+
+Query= XP_004038851.2 serum albumin [Gorilla gorilla gorilla]
+
+Length=396
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.315    0.136    0.372    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 6128828
+
+
+Query= XP_045388761.1 albumin [Lemur catta]
+
+Length=395
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.318    0.134    0.401    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 6046006
+
+
+Query= XP_050646263.1 albumin [Macaca thibetana thibetana]
+
+Length=400
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.304    0.129    0.398    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 6211650
+
+
+Query= XP_517233.3 serum albumin [Pan troglodytes]
+
+Length=396
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.306    0.131    0.381    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 6128828
+
+
+Query= XP_031520350.1 serum albumin [Papio anubis]
+
+Length=399
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.307    0.122    0.312    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 6211650
+
+
+Query= NP_001127106.2 albumin precursor [Pongo abelii]
+
+Length=392
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.318    0.134    0.401    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 5963184
+
+
+Query= XP_010340891.1 albumin [Saimiri boliviensis boliviensis]
+
+Length=404
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.306    0.127    0.408    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 6294472
+
+
+Query= XP_032116870.1 serum albumin [Sapajus apella]
+
+Length=396
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.318    0.134    0.401    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 6128828
+
+
+Query= BAA04809.1 collagen [Homo sapiens]
+
+Length=1027
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.318    0.134    0.401    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 22578050
+
+
+Query= XP_035145207.1 collagen alpha-6(IV) chain isoform X1 [Callithrix
+jacchus]
+
+Length=1045
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.315    0.161    0.527    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 23070662
+
+
+Query= XP_004064730.1 collagen alpha-6(IV) chain [Gorilla gorilla gorilla]
+
+Length=1032
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.318    0.134    0.401    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 22742254
+
+
+Query= XP_045393893.1 collagen alpha-6(IV) chain [Lemur catta]
+
+Length=1035
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.315    0.161    0.536    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 22824356
+
+
+Query= XP_050633116.1 collagen alpha-6(IV) chain isoform X1 [Macaca
+thibetana thibetana]
+
+Length=1034
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.310    0.157    0.524    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 22742254
+
+
+Query= XP_016798387.1 collagen alpha-6(IV) chain isoform X1 [Pan
+troglodytes]
+
+Length=1030
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.318    0.134    0.401    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 22660152
+
+
+Query= XP_003918171.2 collagen alpha-6(IV) chain isoform X1 [Papio anubis]
+
+Length=1032
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.310    0.158    0.499    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 22742254
+
+
+Query= XP_009233428.2 collagen alpha-6(IV) chain isoform X1 [Pongo abelii]
+
+Length=1030
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.311    0.158    0.511    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 22660152
+
+
+Query= XP_039320049.1 collagen alpha-6(IV) chain [Saimiri boliviensis
+boliviensis]
+
+Length=1031
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.311    0.154    0.514    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 22660152
+
+
+Query= XP_032106760.1 collagen alpha-6(IV) chain isoform X1 [Sapajus
+apella]
+
+Length=1040
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.307    0.153    0.517    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 22906458
+
+
+Query= AAA59172.1 insulin [Homo sapiens]
+
+Length=64
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.316    0.151    0.416    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 1836702
+
+
+Query= XP_035119627.1 insulin [Callithrix jacchus]
+
+Length=61
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.318    0.134    0.401    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 1749240
+
+
+Query= XP_018891846.1 insulin isoform X2 [Gorilla gorilla gorilla]
+
+Length=56
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.318    0.134    0.401    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 1574316
+
+
+Query= XP_045414405.1 insulin [Lemur catta]
+
+Length=63
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.318    0.134    0.401    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 1836702
+
+
+Query= XP_050613945.1 insulin isoform X1 [Macaca thibetana thibetana]
+
+Length=93
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.318    0.134    0.401    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 2174550
+
+
+Query= XP_016775240.1 insulin isoform X1 [Pan troglodytes]
+
+Length=126
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.310    0.149    0.432    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 2152550
+
+
+Query= XP_017803627.2 insulin isoform X1 [Papio anubis]
+
+Length=88
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.318    0.134    0.401    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 2178550
+
+
+Query= XP_024110664.1 insulin isoform X1 [Pongo abelii]
+
+Length=123
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.314    0.138    0.385    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 2154550
+
+
+Query= XP_010329449.1 insulin [Saimiri boliviensis boliviensis]
+
+Length=63
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.318    0.134    0.401    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 1836702
+
+
+Query= XP_032124369.1 insulin [Sapajus apella]
+
+Length=61
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.318    0.134    0.401    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 1749240
+
+
+Query= AAB59562.1 keratin [Homo sapiens]
+
+Length=320
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.311    0.160    0.512    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 4236162
+
+
+Query= XP_010328935.2 keratin, type I cytoskeletal 14 [Saimiri boliviensis
+boliviensis]
+
+Length=320
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.318    0.134    0.401    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 4236162
+
+
+Query= XP_017828210.1 keratin, type I cytoskeletal 14 [Callithrix jacchus]
+
+Length=320
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.318    0.134    0.401    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 4236162
+
+
+Query= XP_050618685.1 keratin, type I cytoskeletal 14 [Macaca thibetana
+thibetana]
+
+Length=319
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.318    0.134    0.401    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 4236162
+
+
+Query= XP_003315486.1 keratin, type I cytoskeletal 14 [Pan troglodytes]
+
+Length=322
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.318    0.134    0.401    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 4319224
+
+
+Query= XP_030867326.1 keratin, type I cytoskeletal 14 [Gorilla gorilla
+gorilla]
+
+Length=322
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.318    0.134    0.401    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 4319224
+
+
+Query= XP_003913035.2 keratin, type I cytoskeletal 14 [Papio anubis]
+
+Length=322
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.318    0.134    0.401    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 4319224
+
+
+Query= XP_002834383.2 keratin, type I cytoskeletal 14 [Pongo abelii]
+
+Length=324
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.318    0.134    0.401    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 4402286
+
+
+Query= XP_045382465.1 keratin, type I cytoskeletal 14 [Lemur catta]
+
+Length=327
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.318    0.134    0.401    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 4398046
+
+
+Query= XP_032135581.1 keratin, type I cytoskeletal 14 isoform X1 [Sapajus
+apella]
+
+Length=321
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.312    0.166    0.562    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 4319224
+
+
+Query= KAI4036329.1 lactase [Homo sapiens]
+
+Length=1268
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.318    0.134    0.401    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 28925526
+
+
+Query= XP_002749525.1 lactase-phlorizin hydrolase [Callithrix jacchus]
+
+Length=1269
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.318    0.134    0.401    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 29007468
+
+
+Query= XP_018877691.1 lactase-phlorizin hydrolase [Gorilla gorilla gorilla]
+
+Length=1269
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.318    0.134    0.401    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 29007468
+
+
+Query= XP_045415226.1 lactase-phlorizin hydrolase [Lemur catta]
+
+Length=1276
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.318    0.134    0.401    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 29171352
+
+
+Query= XP_050606971.1 lactase/phlorizin hydrolase [Macaca thibetana
+thibetana]
+
+Length=1269
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.318    0.134    0.401    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 29007468
+
+
+Query= XP_016805242.2 lactase-phlorizin hydrolase [Pan troglodytes]
+
+Length=1269
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.318    0.134    0.401    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 29007468
+
+
+Query= XP_003909221.3 lactase-phlorizin hydrolase [Papio anubis]
+
+Length=1269
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.318    0.134    0.401    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 29007468
+
+
+Query= XP_024099033.1 lactase-phlorizin hydrolase [Pongo abelii]
+
+Length=1271
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.318    0.134    0.401    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 29007468
+
+
+Query= XP_003922057.2 lactase-phlorizin hydrolase [Saimiri boliviensis
+boliviensis]
+
+Length=1256
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.318    0.134    0.401    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 28597758
+
+
+Query= XP_032142216.1 lactase-phlorizin hydrolase [Sapajus apella]
+
+Length=1266
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.318    0.134    0.401    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 28925526
+
+
+Query= CAA25109.1 myoglobin [Homo sapiens]
+
+Length=96
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.318    0.134    0.401    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 2172550
+
+
+Query= P02152.2 RecName: Full=Myoglobin [Callithrix jacchus]
+
+Length=98
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.304    0.171    0.587    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 2172550
+
+
+Query= XP_018874110.1 myoglobin isoform X2 [Gorilla gorilla gorilla]
+
+Length=97
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.318    0.134    0.401    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 2172550
+
+
+Query= XP_045408951.1 myoglobin [Lemur catta]
+
+Length=98
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.318    0.134    0.401    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 2172550
+
+
+Query= XP_024208661.1 myoglobin [Pan troglodytes]
+
+Length=97
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.318    0.134    0.401    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 2172550
+
+
+Query= XP_003905518.1 myoglobin [Papio anubis]
+
+Length=96
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.318    0.134    0.401    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 2172550
+
+
+Query= NP_001125556.1 myoglobin [Pongo abelii]
+
+Length=96
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.318    0.134    0.401    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 2172550
+
+
+Query= XP_003932968.1 myoglobin [Saimiri boliviensis boliviensis]
+
+Length=97
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.301    0.159    0.510    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 2172550
+
+
+Query= P02153.2 RecName: Full=Myoglobin [Sapajus apella]
+
+Length=97
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.301    0.159    0.510    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 2172550
+
+
+Query= XP_050662610.1 myoglobin [Macaca thibetana thibetana]
+
+Length=96
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.318    0.134    0.401    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 2172550
+
+
+Query= CAA86293.1 Myosin [Homo sapiens]
+
+Length=1165
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.318    0.134    0.401    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 26247040
+
+
+Query= XP_008994767.2 myosin-8 [Callithrix jacchus]
+
+Length=1165
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.318    0.134    0.401    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 26247040
+
+
+Query= XP_018868909.2 myosin-8 isoform X1 [Gorilla gorilla gorilla]
+
+Length=1166
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.318    0.134    0.401    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 26247040
+
+
+Query= XP_045381205.1 myosin-8 isoform X1 [Lemur catta]
+
+Length=1165
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.318    0.134    0.401    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 26247040
+
+
+Query= XP_050621552.1 myosin-8 [Macaca thibetana thibetana]
+
+Length=1162
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.318    0.134    0.401    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 26165018
+
+
+Query= NP_001347814.2 myosin-8 [Pan troglodytes]
+
+Length=1165
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.318    0.134    0.401    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 26247040
+
+
+Query= XP_009187945.3 myosin-8 [Papio anubis]
+
+Length=1163
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.318    0.134    0.401    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 26165018
+
+
+Query= XP_024091345.1 myosin-8 isoform X1 [Pongo abelii]
+
+Length=1162
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.318    0.134    0.401    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 26165018
+
+
+Query= XP_039332729.1 myosin-8 isoform X1 [Saimiri boliviensis boliviensis]
+
+Length=1164
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.318    0.134    0.401    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 26247040
+
+
+Query= XP_032136168.1 myosin-8 isoform X1 [Sapajus apella]
+
+Length=1165
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.318    0.134    0.401    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 26247040
+
+
+Query= NP_001032.2 sucrase-isomaltase, intestinal [Homo sapiens]
+
+Length=1203
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.318    0.134    0.401    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 27204744
+
+
+Query= XP_001159286.2 sucrase-isomaltase, intestinal [Pan troglodytes]
+
+Length=1202
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.318    0.134    0.401    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 27122802
+
+
+Query= XP_018878624.1 sucrase-isomaltase, intestinal [Gorilla gorilla
+gorilla]
+
+Length=1199
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.318    0.134    0.401    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 27040860
+
+
+Query= XP_024100521.1 sucrase-isomaltase, intestinal [Pongo abelii]
+
+Length=1199
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.318    0.134    0.401    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 27040860
+
+
+Query= XP_031518793.1 sucrase-isomaltase, intestinal [Papio anubis]
+
+Length=1146
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.318    0.134    0.401    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 25754908
+
+
+Query= XP_050634207.1 sucrase-isomaltase, intestinal [Macaca thibetana
+thibetana]
+
+Length=1193
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.318    0.134    0.401    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 26876976
+
+
+Query= XP_035134018.1 sucrase-isomaltase, intestinal [Callithrix jacchus]
+
+Length=1188
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.318    0.134    0.401    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 26903216
+
+
+Query= XP_039336157.1 LOW QUALITY PROTEIN: sucrase-isomaltase, intestinal
+[Saimiri boliviensis boliviensis]
+
+Length=1191
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.318    0.134    0.401    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 26876976
+
+
+Query= XP_032117438.1 sucrase-isomaltase, intestinal [Sapajus apella]
+
+Length=1196
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.318    0.134    0.401    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 26958918
+
+
+Query= XP_045412485.1 sucrase-isomaltase, intestinal [Lemur catta]
+
+Length=1188
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.318    0.134    0.401    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 26903216
+
+
+  Database: clustering
+    Posted date:  Dec 21, 2022  6:56 PM
+  Number of letters in database: 87,462
+  Number of sequences in database:  80
+
+
+
+Matrix: BLOSUM62
+Gap Penalties: Existence: 11, Extension: 1
+Neighboring words threshold: 12
+Window for multiple hits: 40
